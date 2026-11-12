@@ -1,0 +1,13 @@
+dcor==0.7
+gradio==6.31.0
+joblib==1.6.0
+kneed==0.9.0
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.0.5
+pwlf==2.7.0
+pytest==9.1.1
+ruff==0.17.4
+scikit-learn==1.9.1
+scipy==1.18.1
+shapely==2.2.0
