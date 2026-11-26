@@ -7,7 +7,7 @@ name = "tidewatch"
 version = "0.1.0"
 description = "Rain-driven swim advisory model for Sydney beaches, validated forward in time"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 license = { text = "MIT" }
 authors = [{ name = "Ranjith Guggilla" }]
 dependencies = [
@@ -35,7 +35,7 @@ where = ["src"]
 
 [tool.ruff]
 line-length = 100
-target-version = "py310"
+target-version = "py312"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "B", "UP"]

@@ -109,7 +109,7 @@ The model beats the rain rule by $4.15 per site-day, with a 95% interval of $1.1
 
 ## Installation
 
-Python 3.10 or newer.
+Python 3.12 or newer.
 
 ```bash
 git clone https://github.com/ranjithguggilla/tidewatch.git
